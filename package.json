@@ -1,0 +1,15 @@
+{
+    "name": "node-iracing-telemetry",
+    "version": "0.0.0",
+    "dependencies": {
+        "iracing" : "*",
+        "net" : "*",
+        "socket.io": "*"
+    },
+    "devDependencies": {
+
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    }
+}
